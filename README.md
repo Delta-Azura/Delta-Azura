@@ -42,3 +42,6 @@ Cosmology · Astrobiology · Fundamental physics
 <div align="center">
 <sub>Building Onyx from scratch since 2026.</sub>
 </div>
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Delta-Azura&theme=github-compact&hide_border=true)
