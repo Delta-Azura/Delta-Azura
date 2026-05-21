@@ -22,9 +22,9 @@
 
 </div>
 
-**Raw** — Package manager written in Rust for Onyx. Dependency resolution, archive extraction, conflict detection, post-install triggers.
+**Raw** — Package manager written in Rust for Onyx and all LFS based system that aims to keep a simple and reliable building and management tool. Dependency resolution, archive extraction, conflict detection, post-install triggers.
 
-**Onyx** — Rolling-release Linux distribution built from scratch (LFS/BLFS). ~360 packages, GNOME, Wayland.
+**Onyx** — Rolling-release Linux distribution built from scratch (LFS/BLFS). ~450 packages, GNOME, COSMIC, Wayland.
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### Interests
 
-Cosmology · Astrobiology · Fundamental physics
+Cosmology · Astrobiology · Programming · Formula One
 
 ---
 
