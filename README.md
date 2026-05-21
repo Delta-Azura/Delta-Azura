@@ -15,9 +15,16 @@
 
 ### Projects
 
-**[Raw](https://github.com/Delta-Azura/raw)** — Package manager written in Rust for Onyx. Dependency resolution, archive extraction, conflict detection, post-install triggers.
+<div align="center">
 
-**[Onyx](https://github.com/Delta-Azura/onyx)** — Rolling-release Linux distribution built from scratch (LFS/BLFS). ~360 packages, GNOME, Wayland.
+[![Raw](https://github-readme-stats-psi-pied-81.vercel.app/api/pin/?username=Delta-Azura&repo=raw&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/Delta-Azura/raw)
+[![Onyx](https://github-readme-stats-psi-pied-81.vercel.app/api/pin/?username=Delta-Azura&repo=onyx&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/Delta-Azura/onyx)
+
+</div>
+
+**Raw** — Package manager written in Rust for Onyx. Dependency resolution, archive extraction, conflict detection, post-install triggers.
+
+**Onyx** — Rolling-release Linux distribution built from scratch (LFS/BLFS). ~360 packages, GNOME, Wayland.
 
 ---
 
@@ -26,8 +33,9 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-psi-pied-81.vercel.app/api?username=Delta-Azura&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=00000000)
-
 ![Top Languages](https://github-readme-stats-psi-pied-81.vercel.app/api/top-langs/?username=Delta-Azura&layout=compact&hide_border=true&theme=dark&bg_color=00000000)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Delta-Azura&theme=github-compact&hide_border=true)
 
 </div>
 
@@ -42,6 +50,3 @@ Cosmology · Astrobiology · Fundamental physics
 <div align="center">
 <sub>Building Onyx from scratch since 2026.</sub>
 </div>
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Delta-Azura&theme=github-compact&hide_border=true)
