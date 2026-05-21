@@ -18,7 +18,7 @@ Rust · C · Bash · Linux (LFS/BLFS)
 
 ### Stats
 
-![Stats](https://myreadme.vercel.app/api/embed/Delta-Azura?panels=userstatistics,toplanguages,commitgraph)
+![GitHub Stats](https://github-readme-stats-psi-pied-81.vercel.app/api?username=Delta-Azura&show_icons=true&hide_border=true&count_private=true)
 
 
 ---
