@@ -18,7 +18,7 @@ Rust · C · Bash · Linux (LFS/BLFS)
 
 ### Stats
 
-[![GitHub Stats](https://github-readme-stats-psi-pied-81.vercel.app/api?username=Delta-Azura&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats-psi-pied-81.vercel.app/api?username=Delta-Azura&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Stats]([https://github-readme-stats-psi-pied-81.vercel.app/api?username=Delta-Azura&show_icons=true&hide_border=true&count_private=true](https://github-readme-stats-psi-pied-81.vercel.app/api?username=Delta-Azura&show_icons=true&hide_border=true&count_private=true&theme=dark))]
 
 
 ---
