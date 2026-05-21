@@ -18,7 +18,8 @@ Rust · C · Bash · Linux (LFS/BLFS)
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta-Azura&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default)
+![GitHub contributions](https://ghchart.rshah.org/Delta-Azura)
+
 
 ---
 
