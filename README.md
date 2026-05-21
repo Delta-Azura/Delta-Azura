@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @Delta-Azura
-- 👀 I’m a 19 years old guy interested system package management and Linux in general 
-- 🌱 I’m the creator of Onyx, my own LFS/BLFS distro using it's own package manager called raw. 
+# Alexis
 
-<a href="https://metrics.lecoq.io/insights/Delta-Azura">
-  <img align="left" width="395" src="./metrics_left.svg"/>
-  <img align="right" width="395" src="./metrics_right.svg"/>
-</a>
+Self-taught systems developer. Building things from scratch.
+
+---
+
+### Projects
+
+**[Raw](https://github.com/Delta-Azura/raw)** — A fast, memory-safe package manager written in Rust for the [Onyx](https://github.com/Delta-Azura/onyx) Linux distribution. Handles dependency resolution, archive extraction, conflict detection, and post-install triggers.
+
+---
+
+### Stack
+
+Rust · C · Bash · Linux (LFS/BLFS)
+
+---
+
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta-Azura&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default)
+
+---
+
+*Building Onyx from scratch since 2018.*
