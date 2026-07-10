@@ -18,7 +18,7 @@
 <div align="center">
 
 [![Raw](https://github-readme-stats-psi-pied-81.vercel.app/api/pin/?username=Delta-Azura&repo=raw&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/Delta-Azura/raw)
-[![Onyx](https://github-readme-stats-psi-pied-81.vercel.app/api/pin/?username=Delta-Azura&repo=onyx&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/Delta-Azura/onyx)
+[![Raw-Bot](https://github-readme-stats-psi-pied-81.vercel.app/api/pin/?username=Delta-Azura&repo=onyx&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/Delta-Azura/raw-bot)
 
 </div>
 
