@@ -15,29 +15,29 @@
 
 ### Projects
 
-<div align="center">
+#### [Raw](https://github.com/Delta-Azura/raw)
 
-[![Raw](https://github-readme-stats-psi-pied-81.vercel.app/api/pin/?username=Delta-Azura&repo=raw&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/Delta-Azura/raw)
-[![Raw-Bot](https://github-readme-stats-psi-pied-81.vercel.app/api/pin/?username=Delta-Azura&repo=raw-bot&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/Delta-Azura/raw-bot)
+[![stars](https://img.shields.io/github/stars/Delta-Azura/raw?style=flat&logo=github&label=stars&color=1a1a1a&labelColor=000000)](https://github.com/Delta-Azura/raw/stargazers)
+[![last commit](https://img.shields.io/github/last-commit/Delta-Azura/raw?style=flat&label=last%20commit&color=1a1a1a&labelColor=000000)](https://github.com/Delta-Azura/raw/commits)
+[![top language](https://img.shields.io/github/languages/top/Delta-Azura/raw?style=flat&logo=rust&logoColor=white&color=1a1a1a&labelColor=000000)](https://github.com/Delta-Azura/raw)
 
-</div>
+Package manager written in Rust for Onyx and all LFS-based systems, aiming to stay a simple and reliable build-and-management tool. Dependency resolution, archive extraction, conflict detection, post-install triggers.
 
-**Raw** — Package manager written in Rust for Onyx and all LFS based system that aims to keep a simple and reliable building and management tool. Dependency resolution, archive extraction, conflict detection, post-install triggers.
+#### [Raw-Bot](https://github.com/Delta-Azura/raw-bot)
 
-**Onyx** — Rolling-release Linux distribution built from scratch (LFS/BLFS). ~450 packages, GNOME, COSMIC, Wayland.
+[![stars](https://img.shields.io/github/stars/Delta-Azura/raw-bot?style=flat&logo=github&label=stars&color=1a1a1a&labelColor=000000)](https://github.com/Delta-Azura/raw-bot/stargazers)
+[![last commit](https://img.shields.io/github/last-commit/Delta-Azura/raw-bot?style=flat&label=last%20commit&color=1a1a1a&labelColor=000000)](https://github.com/Delta-Azura/raw-bot/commits)
+[![top language](https://img.shields.io/github/languages/top/Delta-Azura/raw-bot?style=flat&color=1a1a1a&labelColor=000000)](https://github.com/Delta-Azura/raw-bot)
 
----
+Companion automation bot for the Raw ecosystem.
 
-### Stats
+#### [Onyx](https://github.com/Delta-Azura/onyx)
 
-<div align="center">
+[![stars](https://img.shields.io/github/stars/Delta-Azura/onyx?style=flat&logo=github&label=stars&color=1a1a1a&labelColor=000000)](https://github.com/Delta-Azura/onyx/stargazers)
+[![last commit](https://img.shields.io/github/last-commit/Delta-Azura/onyx?style=flat&label=last%20commit&color=1a1a1a&labelColor=000000)](https://github.com/Delta-Azura/onyx/commits)
+[![top language](https://img.shields.io/github/languages/top/Delta-Azura/onyx?style=flat&color=1a1a1a&labelColor=000000)](https://github.com/Delta-Azura/onyx)
 
-![GitHub Stats](https://github-readme-stats-psi-pied-81.vercel.app/api?username=Delta-Azura&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=00000000)
-![Top Languages](https://github-readme-stats-psi-pied-81.vercel.app/api/top-langs/?username=Delta-Azura&layout=compact&hide_border=true&theme=dark&bg_color=00000000)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Delta-Azura&theme=github-compact&hide_border=true)
-
-</div>
+Rolling-release Linux distribution built from scratch (LFS/BLFS). ~450 packages, GNOME, COSMIC, Wayland.
 
 ---
 
@@ -48,5 +48,9 @@ Cosmology · Astrobiology · Programming · Formula One
 ---
 
 <div align="center">
+
+[![followers](https://img.shields.io/github/followers/Delta-Azura?style=flat&logo=github&label=followers&color=1a1a1a&labelColor=000000)](https://github.com/Delta-Azura)
+
 <sub>Building Onyx from scratch since 2026.</sub>
+
 </div>
